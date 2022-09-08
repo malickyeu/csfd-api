@@ -5,10 +5,8 @@
 # Installation
 
 ```sh
-composer require mikulas/csfdapi
+composer require malickyeu/csfdapi
 ```
-or <a href="https://github.com/Mikulas/csfd-api/releases">download packages</a> manually
-
 # Example usage
 
 ```php
