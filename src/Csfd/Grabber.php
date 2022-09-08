@@ -3,8 +3,7 @@
 namespace Csfd;
 
 use cURL;
-use Sunra\PhpSimple\HtmlDomParser;
-
+use KubAT\PhpSimple\HtmlDomParser;
 
 class Grabber
 {
