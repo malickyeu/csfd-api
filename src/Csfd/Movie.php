@@ -2,8 +2,7 @@
 
 namespace Csfd;
 
-use Sunra\PhpSimple\HtmlDomParser;
-
+use KubAT\PhpSimple\HtmlDomParser;
 
 class Movie extends Serializable
 {
