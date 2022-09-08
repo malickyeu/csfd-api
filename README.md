@@ -1,7 +1,3 @@
-# ČSFD API
-
-<b>This API is also available via JSON at <a href="http://csfdapi.cz/">http://csfdapi.cz</a>.</b>
-
 # Installation
 
 ```sh
