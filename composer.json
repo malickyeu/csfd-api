@@ -2,7 +2,7 @@
 	"name": "malickyeu/csfdapi",
 	"description": "API for Czech Movie Database - Fix PHP 7+",
 	"license": ["BSD-3-Clause"],
-	"authors": [{"name": "Mikulas Dite", "Malicky"}],
+	"authors": [{"name": "Mikulas Dite"}, {"name": "Malicky"}],
 	"minimum-stability": "stable",
 	"require": {
 		"php": ">=5.4.0",
